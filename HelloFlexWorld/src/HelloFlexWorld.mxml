@@ -10,6 +10,6 @@
 		]]>
 	</fx:Script>
 	
-	<s:Label text="{count}" updateComplete="count++" fontSize="28" />
+	<s:Label text="{count}" updateComplete="count++" fontSize="128" />
 
 </s:Application>
